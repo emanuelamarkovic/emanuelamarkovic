@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**emanuelamarkovic/emanuelamarkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello, I'm Emanuela! 👋
 I'm a web development student at DCI and I love developing innovative solutions. Here are some details about me:
 
