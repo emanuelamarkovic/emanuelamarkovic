@@ -14,4 +14,4 @@ Let's create great things together! 😊
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> &nbsp;
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/></a> &nbsp;
-<a href="https://www.linux.com" target="_blank" rel="noreferrer"> <img src="<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/linux.svg" alt="linux" width="40" height="40"/></a> &nbsp;" alt="linux" width="40" height="40"/></a> &nbsp;
+
