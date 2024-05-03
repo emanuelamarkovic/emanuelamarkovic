@@ -1,10 +1,12 @@
-Hello, I'm Emanuela! 👋
-I'm a web development student at DCI and I love developing innovative solutions. Here are some details about me:
+### Hi there, I'm Emanuela! 👋
 
-- 🌱 I'm currently learning web development.
--  I'm looking forward to working together and sharing ideas.
+I'm a **Web Development** student at **DCI**, passionate about crafting innovative solutions. 
 
-Let's create great things together! 😊
+- 🌱 Currently diving deep into the realms of web development.
+- 💡 Excited to collaborate and exchange ideas!
+
+Let's **code** and **create** together! 😊 
+
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> &nbsp;
