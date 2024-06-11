@@ -34,3 +34,6 @@ Let's **code** and **create** together! 😊
 <a href="https://github-readme-streak-stats.herokuapp.com?user=emanuelamarkovic">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelamarkovic" alt="Emanuela's GitHub Streak Stats" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelamarkovic)](https://github.com/anuraghazra/github-readme-stats)
+
