@@ -2,8 +2,9 @@
 
 I'm a **Web Development** student at **DCI**, passionate about crafting innovative solutions. 
 
-- 🌱 Currently diving deep into the realms of web development.
+- 🌱 Currently diving deep into Next.js and its capabilities.
 - 💡 Excited to collaborate and exchange ideas!
+- - 🔧 Working diligently on the OBELIX project.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Emanuela_Markovic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emanuela-markovic-5518bb2b7/)
 
 ---
