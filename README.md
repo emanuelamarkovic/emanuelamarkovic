@@ -1,7 +1,5 @@
 ### Hi there, I'm Emanuela! 👋
 
-# Emanuela Markovic - Web Development Graduate
-
 I am a **Web Development** graduate from **DCI**, with a strong enthusiasm for developing innovative and efficient web solutions. My focus is on delivering clean, scalable, and user-friendly applications.
 
 ## 👩‍💻 About Me
