@@ -1,11 +1,21 @@
 ### Hi there, I'm Emanuela! 👋
 
-I'm a **Web Development** student at **DCI**, passionate about crafting innovative solutions. 
+# Emanuela Markovic - Web Development Graduate
 
-- 🌱 Currently diving deep into Next.js and its capabilities.
-- 💡 Excited to collaborate and exchange ideas!
-- 🔧 Working diligently on the OBELIX project.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Emanuela_Markovic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emanuela-markovic-5518bb2b7/)
+I am a **Web Development** graduate from **DCI**, with a strong enthusiasm for developing innovative and efficient web solutions. My focus is on delivering clean, scalable, and user-friendly applications.
+
+## 👩‍💻 About Me
+- 🎓 **Web Development Graduate**: Recently completed my studies at DCI, where I gained hands-on experience with modern web technologies.
+- 🌱 **Tech Stack**: Proficient in **Next.js**, alongside other modern frameworks and tools.
+- 💡 **Collaboration**: Always excited to collaborate and exchange ideas with fellow developers and creative minds.
+- 🔧 **Current Project**: Actively working on the **OBELIX project**, where I’m focused on creating scalable, responsive, and efficient web applications.
+
+## 🔗 Get in Touch
+
+Feel free to connect with me on LinkedIn:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Emanuela_Markovic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emanuela-markovic-5518bb2b7/)
+
 
 ---
 
