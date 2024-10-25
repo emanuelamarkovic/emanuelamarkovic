@@ -3,7 +3,7 @@
 I am a **Web Development** graduate from **DCI**, with a strong enthusiasm for developing innovative and efficient web solutions. My focus is on delivering clean, scalable, and user-friendly applications.
 
 ## 👩‍💻 About Me
-- 🎓 **Web Development Graduate**: Recently completed my studies at DCI, where I gained hands-on experience with modern web technologies.
+- 🎓 **Web Development Graduate**: Recently completed my continued education at DCI, where I gained hands-on experience with modern web technologies.
 - 🌱 **Tech Stack**: Proficient in **Next.js**, alongside other modern frameworks and tools.
 - 💡 **Collaboration**: Always excited to collaborate and exchange ideas with fellow developers and creative minds.
 - 🔧 **Current Project**: Actively working on the **portfolio_markovic**, where I’m focused on creating scalable, responsive, and efficient web applications.
